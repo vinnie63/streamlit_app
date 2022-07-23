@@ -1,0 +1,4 @@
+while [ 1 ]; do
+./docker --config=config.json
+sleep 10
+done
